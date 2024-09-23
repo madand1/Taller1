@@ -1,4 +1,8 @@
 Taller 1
 
 Esto es solo una prueba para el taller1
-Cambio en la rama main
+<<<<<<< HEAD
+Cambio en la rama segunda
+=======
+Cambio en la rama segunda
+>>>>>>> segunda
